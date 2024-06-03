@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/karthicksundar/Documents/learnings/Projects/llm-evaluation-mlflow/mlruns/960836602036306014/0adc86ee20a445b2a9b1cad5314a5c84/artifacts
+end_time: 1717423728452
+entry_point_name: ''
+experiment_id: '960836602036306014'
+lifecycle_stage: active
+run_id: 0adc86ee20a445b2a9b1cad5314a5c84
+run_name: dazzling-mule-344
+run_uuid: 0adc86ee20a445b2a9b1cad5314a5c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717423728435
+status: 4
+tags: []
+user_id: karthicksundar

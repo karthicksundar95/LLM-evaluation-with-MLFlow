@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/karthicksundar/Documents/learnings/Projects/llm-evaluation-mlflow/mlruns/960836602036306014/0ddc93eeac28472099ee84901755acc0/artifacts
+end_time: 1717423684747
+entry_point_name: ''
+experiment_id: '960836602036306014'
+lifecycle_stage: active
+run_id: 0ddc93eeac28472099ee84901755acc0
+run_name: traveling-bird-839
+run_uuid: 0ddc93eeac28472099ee84901755acc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717423684731
+status: 4
+tags: []
+user_id: karthicksundar
